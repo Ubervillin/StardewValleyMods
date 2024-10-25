@@ -1,14 +1,14 @@
 ﻿{
   "Name": "Seed Maker Tweaks",
-  "Author": "aedenthorn",
+  "Author": "Ubervillin",
   "Version": "0.2.1-unofficial.1-Ubervillin",
   "Description": "Seed Maker Tweaks.",
-  "UniqueID": "aedenthorn.SeedMakerTweaks",
+  "UniqueID": "Ubervillin.SeedMakerTweaks",
   "EntryDll": "SeedMakerTweaks.dll",
   "MinimumApiVersion": "4.0.8",
   "ModUpdater": {
     "Repository": "StardewValleyMods",
-    "User": "aedenthorn",
+    "User": "Ubervillin",
     "Directory": "_releases",
     "ModFolder": "SeedMakerTweaks"
   },
